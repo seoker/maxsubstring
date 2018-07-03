@@ -1,0 +1,12 @@
+{
+  "input": {
+    "string": "ababa",
+    "dictionary": {
+      "a": 3,
+      "ba": 40,
+      "ab": 15,
+      "ababa": 30
+    }
+  },
+  "expected": 83
+}

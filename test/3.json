@@ -1,0 +1,15 @@
+{
+  "input": {
+    "string": "abcdefg",
+    "dictionary": {
+      "a": 3,
+      "b": 4,
+      "ab": 6,
+      "cd": 5,
+      "abc": 10,
+      "bcd": 5,
+      "def": 20
+    }
+  },
+  "expected": 0
+}
