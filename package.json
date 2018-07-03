@@ -1,15 +1,15 @@
 {
   "name": "maxsubstring",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "calculate.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Seoker Wang <seoker@gmail.com>",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
